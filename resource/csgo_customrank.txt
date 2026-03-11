@@ -1,0 +1,10 @@
+"lang"
+{
+    "Language" "customrank"
+    "Tokens"
+    {
+        // 99 chính là ID bạn gọi trong Plugin
+        // Bắt buộc phải có thẻ <img> thì nó mới load ảnh SVG
+        "SkillGroup_99" "<img src='s2r://materials/panorama/images/icons/skillgroups/skillgroup99.svg'>"
+    }
+}
